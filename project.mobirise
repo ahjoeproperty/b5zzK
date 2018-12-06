@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ahjoe100",
-    "currentPage": "bestdeals.html",
+    "currentPage": "greatdeals.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2239,7 +2239,7 @@
         }
       ]
     },
-    "bestdeals.html": {
+    "greatdeals.html": {
       "settings": {
         "meta_descr": "The Most Value for Money House in Penang Island",
         "title": "Great Deals!",
